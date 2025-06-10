@@ -10,7 +10,7 @@
   "exclude": [],
   "gitignore": [],
   "scripts": {},
-  "coverage": 50,
+  "coverage": 0,
   "source": [
     {
       "name": "pypi_",

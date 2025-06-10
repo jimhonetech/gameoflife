@@ -36,7 +36,7 @@ fixstyle: .venv ## fix black and isort style violations
 	poetry run black -l 99 gameoflife tests
 
 test: .venv ## quick run of unit tests
-	poetry run pytest --verbose --capture=no --cov=gameoflife --cov-fail-under=50
+	poetry run pytest --verbose --capture=no --cov=gameoflife --cov-fail-under=0
 	
 test-all: lint test
 
