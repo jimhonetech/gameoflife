@@ -1,2 +1,5 @@
 # gameoflife
-Decided to have a play around with celular automota and build the classic conways game of life
+Decided to setup the classic conways game of life so my kids can play with it.
+Used pygame , seemed simplest way to setup
+
+![img.png](img.png)

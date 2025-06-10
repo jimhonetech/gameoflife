@@ -1,0 +1,4 @@
+[submodule "projen-submodule"]
+	path = projen-submodule
+	url = ../projen-submodule
+	branch = main

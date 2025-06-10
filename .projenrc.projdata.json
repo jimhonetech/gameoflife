@@ -1,0 +1,22 @@
+{
+  "name": "gameoflife",
+  "author": "JimHBeam",
+  "email": "javrelh@gmail.com",
+  "version": "0.0.1",
+  "deps": ["numpy@*", "pygame@*"],
+  "dev_deps": ["projen@*"],
+  "extras": {},
+  "include": [],
+  "exclude": [],
+  "gitignore": [],
+  "scripts": {},
+  "coverage": 50,
+  "source": [
+    {
+      "name": "pypi_",
+      "url": "https://pypi.org/simple/",
+      "priority": "primary"
+    }
+  ],
+  "main_branch": "main"
+}
